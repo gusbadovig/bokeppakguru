@@ -1,2 +1,1 @@
-# bokeppakguru
-bokeppakguru
+# [bokeppakguru](https://bokeppakguru.pages.dev)
